@@ -14,3 +14,5 @@ In order Max 8: [1, 2, 3, 4, 5, 6, 7]
 
 ```
 
+* By Kevin T. Duraj
+
