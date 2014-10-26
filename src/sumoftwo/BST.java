@@ -152,7 +152,7 @@ class BST {
 
     /*--------------------------------------------------------------------------------------------*/
     /* Function for inorder traversal less than max */
-    public List<Integer> inorderMax(int max) {
+    public List<Integer> inorderLimit(int max) {
     
         List<Integer> array = new ArrayList();
         inorderMax(root, array, max);
